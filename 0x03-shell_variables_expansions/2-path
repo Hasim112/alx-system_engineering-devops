@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:/path/to/action"
+echo 'setx PATH "%PATH%;C:\path\to\action"'
